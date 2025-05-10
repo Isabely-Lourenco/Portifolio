@@ -1,3 +1,3 @@
 # Portifolio
 ***
-Portifólio para apresentação de projetos feitos, habilidades e experiências no mercado..
+Portifólio para apresentação de projetos feitos, habilidades e experiências profissionais.
